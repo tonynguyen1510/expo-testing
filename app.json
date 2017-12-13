@@ -1,0 +1,15 @@
+ {
+   "expo": {
+    "name": "ExpoOffPeak",
+    "icon": "./assets/images/icon.png",
+    "version": "1.0.0",
+    "slug": "expo-offpeak",
+    "sdkVersion": "17.0.0",
+    "ios": {
+      "bundleIdentifier": "com.expooffpeak.yourappname"
+    },
+    "android": {
+      "package": "com.expooffpeak.yourappname"
+    }
+   }
+ }
